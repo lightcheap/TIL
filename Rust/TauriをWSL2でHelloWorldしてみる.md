@@ -19,7 +19,7 @@ cargo install tauri-cli
 ```
 作成されたアプリのディレクトリに入る
 ```
-cd sample-app
+cd systemtray-example
 ```
 一旦そのまま立ち上げてみる
 ```
